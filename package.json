@@ -4,7 +4,7 @@
   "description": "CKEditor directive for Angular.",
   "main": "angular-ckeditor.js",
   "scripts": {
-    "install": "bower install",
+    "install": "bower install --allow-root",
     "test": "./node_modules/karma/bin/karma start --single-run"
   },
   "repository": {
