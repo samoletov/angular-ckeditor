@@ -1,7 +1,7 @@
 {
-  "name": "angular-ckeditor",
+  "name": "angular-ckeditor-gitlab-ci",
   "version": "1.0.3",
-  "description": "CKEditor directive for Angular.",
+  "description": "CKEditor directive for Angular modified to use with Gitlab CI",
   "main": "angular-ckeditor.js",
   "scripts": {
     "install": "bower install --allow-root",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lemonde/angular-ckeditor.git"
+    "url": "git://github.com/samoletov/angular-ckeditor.git"
   },
   "keywords": [
     "angular",
     "directive",
     "ckeditor"
   ],
-  "author": "Team Le8 <projet-cms-tech@lemonde.fr>",
+  "author": "Johnny Samoletov <johnny.samoletov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lemonde/angular-ckeditor/issues"
+    "url": "https://github.com/samoletov/angular-ckeditor/issues"
   },
-  "homepage": "https://github.com/lemonde/angular-ckeditor",
+  "homepage": "https://github.com/samoletov/angular-ckeditor",
   "devDependencies": {
     "bower": "~1.7.2",
     "chai": "~3.4.1",
