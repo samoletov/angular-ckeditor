@@ -1,6 +1,6 @@
 {
   "name": "angular-ckeditor-gitlab-ci",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "CKEditor directive for Angular modified to use with Gitlab CI",
   "main": "angular-ckeditor.js",
   "scripts": {
